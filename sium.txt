@@ -2,4 +2,6 @@ inserire nella repository solo la cartella iniziale con main e makefile e readme
 non la cartella debug
 fai un add delle modifiche
 commit le modifiche per poter registrare le modifiche
+creare un .gitignore e ci scrivi un bel Debug così che ignori la cartella Debug 
+oppure *Debug* per qualsiasi nome che contenga all interno la parola Debug
 
